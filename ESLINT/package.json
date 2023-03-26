@@ -1,0 +1,23 @@
+{
+  "name": "version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/love-porwal/ci-cd_nxm201_b24.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/love-porwal/ci-cd_nxm201_b24/issues"
+  },
+  "homepage": "https://github.com/love-porwal/ci-cd_nxm201_b24#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
